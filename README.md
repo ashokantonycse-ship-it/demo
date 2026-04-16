@@ -7,8 +7,7 @@
 
 <h2>Drug Interaction Checker</h2>
 
-<input type="text" id="drugs" placeholder="Enter drugs (comma separated)">
-<button onclick="check()">Check</button>
+<input type="text" id="drugs" placeholder="Enter drugs (comma separated)"><button onclick="check()">Check</button>
 
 <p id="result"></p>
 
